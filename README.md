@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![HR Analytics Dashboard](HR%20analytics.png)
+
 
 This repository hosts an **HR Analytics Dashboard**, designed to provide key insights into employee attrition, demographics, and job role distributions. The dashboard is a visual tool built using **Power BI**, showcasing metrics essential for human resources decision-making.
 
