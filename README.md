@@ -120,6 +120,6 @@ Contributions are welcome! Please follow these steps:
 For further questions or feedback, feel free to reach out:
 
 **Altamash Rahman**  
-**[LinkedIn]([www.linkedin.com/in/altamash-ra](https://www.linkedin.com/in/altamash-rahman-b399b1178/))**  
+**[LinkedIn](https://www.linkedin.com/in/altamash-ra/)**  
 **Email: altamash6044@gmail.com**
 
